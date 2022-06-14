@@ -2,11 +2,11 @@
 
 Patika Enuygun Bootcamp 1. hafta örnekleri
 
-#Konular:
+# Konular:
 
- Nesne Yönelimli Programlama (OOP) 
- Inheritance 
- Polymorphism 
- Encapsulation 
- Abstraction
- UML
+* Nesne Yönelimli Programlama (OOP) 
+* Inheritance 
+* Polymorphism 
+* Encapsulation 
+* Abstraction
+* UML
