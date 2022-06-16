@@ -32,6 +32,7 @@
 - [UML CLass Diyagramları - Medium](https://tugrulbayrak.medium.com/uml-class-diyagramlari-4c3bb7e9cc4c)
 - [UML Diagram Tool - Draw.io](https://app.diagrams.net/)
 - [What is Wildcard?](https://www.computerhope.com/jargon/w/wildcard.htm)
+- [Complex Database Schema Example](https://drawsql.app/templates/akaunting)
 
 
 Daha fazla bilgi için Discord kanalımıza katılarak destek alabilirsiniz.
