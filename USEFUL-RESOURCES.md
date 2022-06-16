@@ -23,4 +23,15 @@
 - [When we us the $this?](https://www.phptutorial.net/php-oop/php-this/)
 - [Linux commands](https://kinsta.com/blog/linux-commands/)
 
+## Perşembe Günü derste paylaşılan kaynakların listesi
+
+## Bağlantılar
+
+- [OOP Abstract Classes - W3 Schools](https://www.w3schools.com/php/php_oop_classes_abstract.asp)
+- [PHP'de Abstract Sınıflar - Yusuf Sezer](https://www.yusufsezer.com.tr/php-oop-abstract/)
+- [UML CLass Diyagramları - Medium](https://tugrulbayrak.medium.com/uml-class-diyagramlari-4c3bb7e9cc4c)
+- [UML Diagram Tool - Draw.io](https://app.diagrams.net/)
+- [What is Wildcard?](https://www.computerhope.com/jargon/w/wildcard.htm)
+
+
 Daha fazla bilgi için Discord kanalımıza katılarak destek alabilirsiniz.
